@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rui-xu-nju/rui-xu-nju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rui Xu
 
-Here are some ideas to get you started:
+<p>
+  <strong>Nanjing University</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>Exploring vision, geometry, and learning.</em>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-6E3A7C?style=flat-square&labelColor=F5F5F7" />
+  <img src="https://img.shields.io/badge/3D%20Reconstruction-8A5AA6?style=flat-square&labelColor=F5F5F7" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6E3A7C?style=flat-square&labelColor=F5F5F7" />
+</p>
+
+<p>
+  <a href="mailto:522026710056@smail.nju.edu.cn">522026710056@smail.nju.edu.cn</a>
+</p>
+
+</div>
+
+<br>
+
+Hi, I'm **Rui Xu**, a student at **Nanjing University**.
+
+I'm interested in **Computer Vision**, **3D Reconstruction**, and **Machine Learning**.
